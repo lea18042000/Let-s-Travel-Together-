@@ -1,0 +1,8 @@
+.fin{
+	background: white;
+	padding: 24px;
+	border-radius: 6px;
+	text-align: center;
+	box-shadow: 0 12px 30px rgba(30, 30, 30, 0.2);
+	margin-bottom: 24px;
+}

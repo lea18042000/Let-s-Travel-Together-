@@ -1,0 +1,22 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+}
+
+/*Media query*/
+
+@media(max-width: 700px) {
+  .container {
+    width: 520px;
+  }
+}
+
+@media(max-width: 500px) {
+  .container {
+    width: 320px;
+  }
+}

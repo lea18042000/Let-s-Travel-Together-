@@ -1,0 +1,24 @@
+.btn-pink {
+  text-decoration: none;
+  background-color: #F56FAD;
+  color: white;
+  font-size: 20px;
+  padding: 6px 28px;
+  border-radius: 8px;
+  border: solid 1px #F56FAD;
+  margin: 12px;
+}
+
+.btn-pink:hover {
+  background-color: white;
+  color: #F56FAD;
+  transition: 0.5s;
+  text-align : center;
+}
+
+.buttons {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
